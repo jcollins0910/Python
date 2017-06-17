@@ -1,4 +1,5 @@
 """
+Modified by: Jacquiline Collins
 Written by: Shreyas Daniel - github.com/shreydan
 Description: Uses Pythons eval() function 
              as a way to implement calculator
